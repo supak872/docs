@@ -17,3 +17,4 @@ children:
   - /managing-your-membership-in-organizations
 ---
 
+เอกสาร/เนื้อหา/แพ็คเกจ/การทำงานกับ a-github-packages-registry/ enable-improved-container-support-with-the-container-registry.mdเอกสาร/เนื้อหา/แพ็คเกจ/การทำงานกับ a-github-packages-registry/ enable-improved-container-support-with-the-container-registry.md
